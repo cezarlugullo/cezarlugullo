@@ -15,8 +15,8 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cezar%20Lugullo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-araujo-7206a2195/)
-[![Portfolio](https://img.shields.io/badge/Project-Resume%20Eleva-black?style=flat&logo=vercel&logoColor=white)](https://resumeeleva.vercel.app/)
-[![GitHub followers](https://img.shields.io/github/followers/cezarlugullo?label=Followers&style=flat&logo=github&logoColor=white)](https://github.com/cezarlugullo?tab=followers)
+[![Resume Eleva](https://img.shields.io/badge/Project-Resume%20Eleva-000000?style=flat&logo=vercel&logoColor=white)](https://resumeeleva.vercel.app/)
+[![GitHub followers](https://img.shields.io/github/followers/cezarlugullo?label=Followers&style=flat&logo=github&logoColor=white&color=181717)](https://github.com/cezarlugullo?tab=followers)
 
 ---
 
@@ -41,9 +41,9 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+     src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="Vercel" title="Vercel" width="40px" style="padding-right:10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+     src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="UiPath" title="UiPath" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uipath/uipath-original.svg" />
 
@@ -57,17 +57,9 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 
 <div align="center">
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=cezarlugullo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-    alt="Cezar's GitHub Stats"
-  />
+[![Cezar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cezarlugullo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en)](https://github.com/cezarlugullo)
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarlugullo&layout=compact&langs_count=7&theme=tokyonight&locale=en&custom_title=Top%20Technologies"
-    alt="Top Languages"
-  />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarlugullo&layout=compact&langs_count=7&theme=tokyonight&locale=en&custom_title=Top%20Technologies)](https://github.com/cezarlugullo)
 
 </div>
 
@@ -101,8 +93,8 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
 ### 🤝 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cezar%20Lugullo-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-araujo-7206a2195/)
-[![Projeto](https://img.shields.io/badge/Projeto-Resume%20Eleva-black?style=flat&logo=vercel&logoColor=white)](https://resumeeleva.vercel.app/)
-[![Seguidores](https://img.shields.io/github/followers/cezarlugullo?label=Seguidores&style=flat&logo=github&logoColor=white)](https://github.com/cezarlugullo?tab=followers)
+[![Resume Eleva](https://img.shields.io/badge/Projeto-Resume%20Eleva-000000?style=flat&logo=vercel&logoColor=white)](https://resumeeleva.vercel.app/)
+[![Seguidores](https://img.shields.io/github/followers/cezarlugullo?label=Seguidores&style=flat&logo=github&logoColor=white&color=181717)](https://github.com/cezarlugullo?tab=followers)
 
 ---
 
@@ -127,9 +119,9 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+     src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="Vercel" title="Vercel" width="40px" style="padding-right:10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
+     src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="UiPath" title="UiPath" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uipath/uipath-original.svg" />
 
@@ -143,17 +135,9 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
 
 <div align="center">
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=cezarlugullo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    alt="Estatisticas do GitHub do Cezar"
-  />
+[![Estatisticas do GitHub](https://github-readme-stats.vercel.app/api?username=cezarlugullo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/cezarlugullo)
 
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezarlugullo&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Principais%20Tecnologias"
-    alt="Top Linguagens"
-  />
+[![Principais Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=cezarlugullo&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&custom_title=Principais%20Tecnologias)](https://github.com/cezarlugullo)
 
 </div>
 
