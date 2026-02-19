@@ -45,7 +45,7 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 <img align="left" alt="Vercel" title="Vercel" width="40px" style="padding-right:10px"
      src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="UiPath" title="UiPath" width="40px" style="padding-right:10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uipath/uipath-original.svg" />
+     src="https://skillicons.dev/icons?i=stackoverflow" />
 
 <br />
 <br />
@@ -123,7 +123,7 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
 <img align="left" alt="Vercel" title="Vercel" width="40px" style="padding-right:10px"
      src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="UiPath" title="UiPath" width="40px" style="padding-right:10px"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/uipath/uipath-original.svg" />
+     src="https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white" />
 
 <br />
 <br />
