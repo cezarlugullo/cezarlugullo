@@ -2,9 +2,11 @@
 
 **`Full Stack Developer`**
 
-I'm a developer passionate about technology, automation, and software engineering best practices.
-Currently focused on **modern web applications**, integrations, and automations — always aiming to write clean, scalable, and well-tested code.
-I enjoy sharing knowledge, contributing to open source, and building solutions that truly generate value for people and businesses.
+I came to programming through science. During my marine biology degree I worked with real ecological data, analyses in R, and many manual processes that were hard to reproduce. To solve that, I started writing scripts, automating routines, and organizing information. Programming stopped being a support tool and became the focus.
+
+Today I build web applications, dashboards, and automation tools. I try to understand the problem before writing any code — because I come from a context where a wrong interpretation costs months of fieldwork. From research I bring the concern for clarity, traceability, and reproducible solutions.
+
+In the end, I did not choose technology because it was trending. It was the natural path to turn complex data and ideas into something usable by real people.
 
 🌐 **Project highlight:** [Resume Eleva](https://resumeeleva.vercel.app/) — a professional resume builder deployed on Vercel.
 
@@ -38,6 +40,8 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="R" title="R" width="40px" style="padding-right:10px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px"
@@ -45,7 +49,7 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 <img align="left" alt="Vercel" title="Vercel" width="40px" style="padding-right:10px"
      src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="UiPath" title="UiPath" width="40px" style="padding-right:10px"
-     src="https://skillicons.dev/icons?i=stackoverflow" />
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UiPath_2019_Corporate_Logo.png/320px-UiPath_2019_Corporate_Logo.png" />
 
 <br />
 <br />
@@ -67,9 +71,10 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 
 ### 🚀 Highlights
 
+- Marine biology background — problem understanding comes before the code
 - Building and deploying web apps with **Next.js**, **React**, and **Vercel**
 - Automation experience with **UiPath RPA** and API integrations
-- Focused on writing clean, maintainable, and well-documented code
+- Focus on clarity, traceability and reproducible solutions
 - Pursuing **UiPath Automation Developer** certification
 
 ---
@@ -80,9 +85,11 @@ I enjoy sharing knowledge, contributing to open source, and building solutions t
 
 **`Desenvolvedor Full Stack`**
 
-Sou um desenvolvedor apaixonado por tecnologia, automacao e boas praticas de engenharia de software.
-Atualmente focado em **aplicacoes web modernas**, integracoes e automacoes — sempre buscando escrever codigo limpo, escalavel e bem testado.
-Gosto de compartilhar conhecimento, contribuir com open source e construir solucoes que realmente geram valor para pessoas e negocios.
+Entrei na programacao pela ciencia. Durante minha formacao em biologia marinha trabalhei com dados ecologicos reais, analises em R e muitos processos manuais dificeis de reproduzir. Para resolver isso comecei a escrever scripts, automatizar rotinas e organizar informacao. A programacao deixou de ser apoio e virou o foco.
+
+Hoje desenvolvo aplicacoes web, dashboards e ferramentas de automacao. Procuro entender o problema antes do codigo, porque venho de um contexto onde a interpretacao errada custa meses de trabalho de campo. Trago da pesquisa a preocupacao com clareza, rastreabilidade e solucoes reproduziveis.
+
+No fim, nao escolhi tecnologia por tendencia. Foi o caminho natural para transformar dados e ideias complexas em algo utilizavel por pessoas.
 
 🌐 **Projeto em destaque:** [Resume Eleva](https://resumeeleva.vercel.app/) — um criador de curriculo profissional publicado na Vercel.
 
@@ -116,6 +123,8 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="R" title="R" width="40px" style="padding-right:10px"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right:10px"
@@ -123,7 +132,7 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
 <img align="left" alt="Vercel" title="Vercel" width="40px" style="padding-right:10px"
      src="https://skillicons.dev/icons?i=vercel" />
 <img align="left" alt="UiPath" title="UiPath" width="40px" style="padding-right:10px"
-     src="https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white" />
+     src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/UiPath_2019_Corporate_Logo.png/320px-UiPath_2019_Corporate_Logo.png" />
 
 <br />
 <br />
@@ -145,9 +154,10 @@ Gosto de compartilhar conhecimento, contribuir com open source e construir soluc
 
 ### 🚀 Destaques
 
+- Formacao em biologia marinha — o problema vem antes do codigo
 - Criando e publicando aplicacoes web com **Next.js**, **React** e **Vercel**
 - Experiencia em automacao com **UiPath RPA** e integracoes com APIs
-- Foco em codigo limpo, de facil manutencao e bem documentado
+- Foco em clareza, rastreabilidade e solucoes reproduziveis
 - Buscando a certificacao **UiPath Automation Developer**
 
 ---
